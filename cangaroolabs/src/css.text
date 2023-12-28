@@ -1,20 +1,3 @@
-.body{
-position: relative;
-width: 1440px;
-height: 4848px;
-overflow-y: scroll;
-background: #FFFFFF;
-}
-
-/* Rectangle 12 */
-
-position: absolute;
-width: 1440px;
-height: 1155px;
-left: 0px;
-top: 686px;
-
-background: #1F1D1D;
 
 
 /* richelleellis 2 */
