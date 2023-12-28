@@ -1,4 +1,4 @@
-/* Group 1 */
+/* Group 1 
 
 position: absolute;
 width: 76.92px;
@@ -7,15 +7,14 @@ left: 415px;
 top: -6px;
 
 
-/* Inside auto layout */
-flex: none;
+/* Inside auto layout 
 order: 0;
 flex-grow: 0;
 z-index: 0;
 
 
 /* Rectangle 1 */
-
+/*
 position: absolute;
 width: 76.92px;
 height: 30px;
@@ -24,7 +23,7 @@ top: -6px;
 
 background: #F2B236;
 border-radius: 8px;
-
+*/
 
 .login{
 position: absolute;
@@ -40,51 +39,24 @@ font-size: 16px;
 line-height: 19px;
 color: #000000;
 }
-
-
-/* Sign up */
-
-position: absolute;
-width: 60.89px;
-height: 19px;
-left: 422.48px;
-top: 0px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 19px;
-
-color: #000000;
-
-
-
-/* CANGAROO */
-
+.cangaroo{
 position: absolute;
 width: 140px;
 height: 35px;
 left: calc(50% - 140px/2 - 442px);
 top: 29px;
-
 font-family: 'Jost';
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
 line-height: 35px;
-/* identical to box height */
-
 color: #F2B236;
-
-
-
-/* 02 1 */
-
+}
+.logo{
 position: absolute;
 width: 70px;
 height: 54px;
 left: 149px;
 top: 16px;
-
 background: url(02.png);
+}
