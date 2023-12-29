@@ -6,7 +6,7 @@ const Hompage = () => {
   return (
     <div classname="homepage">
     <Header/>
-    <div className="can"><img src='./images/3d-rendering-robotic-dog-removebg 1.png' alt='dfw' width={100}/></div>
+    <div className="can"><img src='./images/3d-rendering-robotic-dog-removebg 1.png' alt='dfw'/></div>
     </div>
   )
 }

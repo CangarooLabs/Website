@@ -7,12 +7,10 @@ top: 0px;
 background-color:black;
 }
 .can{
-
-
-position: absolute;
-width: 377px;
-height: 566px;
-left: calc(50% - 377px/2 + 335.5px);
-top: 120px;
+position:relative;
+width: 200px;
+height: 2000px;
+margin-left:1300px;
+margin-top: 120px;
 
 }
