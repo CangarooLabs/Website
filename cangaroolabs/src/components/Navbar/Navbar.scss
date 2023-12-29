@@ -1,29 +1,28 @@
-/* Group 1 
+.nav{
 
 position: absolute;
 width: 76.92px;
 height: 30px;
 left: 415px;
 top: -6px;
+}
 
-
-/* Inside auto layout 
+.nav{
 order: 0;
 flex-grow: 0;
 z-index: 0;
+}
 
-
-/* Rectangle 1 */
-/*
+.nav{
 position: absolute;
 width: 76.92px;
 height: 30px;
 left: 415px;
 top: -6px;
 
-background: #F2B236;
+
 border-radius: 8px;
-*/
+}
 
 .login{
 position: absolute;
@@ -37,7 +36,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 19px;
-color: #000000;
+color: #F2B236;
 }
 .cangaroo{
 position: absolute;
@@ -58,5 +57,4 @@ width: 70px;
 height: 54px;
 left: 149px;
 top: 16px;
-
 }
