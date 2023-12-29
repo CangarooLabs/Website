@@ -99,3 +99,11 @@ a {
     font-size: 1.2rem;
   }
 }
+
+.text1{
+position: relative;
+width: 285px;
+height: 47px;
+left: calc(50% - 285px/2 + 5.5px);
+top: 738px;
+}

@@ -1,9 +1,13 @@
-/* 3d-rendering-robotic-dog-removebg 1 */
+/* What We Offer */
 
-position: absolute;
-width: 377px;
-height: 566px;
-left: calc(50% - 377px/2 + 335.5px);
-top: 120px;
 
-background: url(3d-rendering-robotic-dog-removebg.png);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 39px;
+line-height: 120%;
+/* identical to box height, or 47px */
+
+color: #F2B236;
+

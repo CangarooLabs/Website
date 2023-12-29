@@ -7,12 +7,12 @@ const App = () => {
     return(
     <div>
         <div><Homepage/></div>
-        <div className="section2"><div classname="text1">What we offer</div></div>
+        <div className="section2"><div classname="text1"> <img src='./images/WhatWeOffer.png' alt='dfw'/></div></div>
         <div className="section3">
-            <div classname="text1">Why Us</div>
+            <div classname="text1"><div classname="text1"> <img src='./images/Why Us.png' alt='dfw'/></div></div>
             </div>
-        <div className="section4"><div classname="text1">Project Highlights</div></div>
-        <div className="section5"><div classname="text1">Our Team</div></div>
+        <div className="section4"><div classname="text1"> <img src='./images/Project Highlights.png' alt='dfw'/></div></div>
+        <div className="section5"><div classname="text1"> <img src='./images/Our Team.png' alt='dfw'/></div></div>
         <Footer/>
     </div>
     
