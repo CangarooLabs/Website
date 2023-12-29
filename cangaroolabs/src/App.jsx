@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
 import Homepage from "./components/Hompage/Hompage"
+import Footer from "./components/Footer/Footer"
 
 const App = () => {
     return(
@@ -12,7 +13,9 @@ const App = () => {
             </div>
         <div className="section4"><div classname="text1">Project Highlights</div></div>
         <div className="section5"><div classname="text1">Our Team</div></div>
+        <Footer/>
     </div>
+    
     )
 }
 

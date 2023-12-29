@@ -3,7 +3,6 @@
     position: absolute;
     width:2000px;
     height: 1155px;
-    left: 0px;
     top: 686px;
     background: #1F1D1D;
 }
@@ -11,7 +10,6 @@
     position: absolute;
     width: 2000px;
     height: 652px;
-    left: 0px;
     top: 1841px;
     background:black;
 }
@@ -19,7 +17,6 @@
 position: absolute;
 width:2000px;
 height: 1240px;
-left: 0px;
 top: 2490px;
 background: #1F1D1D;
 }
@@ -27,7 +24,6 @@ background: #1F1D1D;
 position: absolute;
 width: 2000px;
 height: 740px;
-left: 0px;
 top: 3729px;
 background:Black;
 }
