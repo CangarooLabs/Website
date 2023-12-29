@@ -36,21 +36,3 @@ left: 0px;
 top: 3729px;
 background: #000000;
 }
-.text{
-
-position: absolute;
-width: 285px;
-height: 47px;
-left: calc(50% - 285px/2 + 5.5px);
-top: 738px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 39px;
-line-height: 120%;
-
-color: #F2B236;
-
-
-}

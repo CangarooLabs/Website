@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Homepage.scss"
+import "./Homepage.css"
 import Navbar from "../Navbar/Navbar"
 
 const Hompage = () => {
