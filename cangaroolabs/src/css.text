@@ -1,13 +1,59 @@
-/* What We Offer */
+/* Group 5 */
 
-dulitha
+position: absolute;
+width: 275.27px;
+height: 370.73px;
+left: 582.37px;
+top: 889px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 275.27px;
+height: 370.73px;
+left: 582.37px;
+top: 889px;
+
+background: #312E2E;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+
+
+/* Crafting captivating and user-centric designs is our forte... */
+
+position: absolute;
+width: 246.54px;
+height: 35.22px;
+left: 603.68px;
+top: 1173.54px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+
+color: #948C8C;
+
+
+
+/* UI/UX Designs */
+
+position: absolute;
+width: 246.54px;
+height: 27.8px;
+left: 603.68px;
+top: 1127.2px;
 
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 500;
-font-size: 39px;
+font-weight: 700;
+font-size: 25px;
 line-height: 120%;
-/* identical to box height, or 47px */
+/* or 30px */
 
-color: #F2B236;
+color: #FFFFFF;
 

@@ -6,6 +6,38 @@
     top: 686px;
     background: #1F1D1D;
 }
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:150px;
+}
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:1px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    max-width: 10000px;
+    margin-bottom: 20px;
+}
+.box {
+    width: 275.27px;
+    height: 370.73px;
+    background-color: #312E2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    margin: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+}
 .section3{
     position: absolute;
     width: 2000px;

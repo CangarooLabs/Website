@@ -1,8 +1,9 @@
-body{
+.footer{
 position: absolute;
-background: #000000;
+background: #f7f0f0c4;
 margin-top:4469;
 left:0px;
 height:431px;
 width:2000px;
+top:300px;
 }
