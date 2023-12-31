@@ -1,7 +1,7 @@
 
 .section2{
-    position: absolute;
-    width:2000px;
+  position:absolute;
+    width:100%;
     height: 1155px;
     top: 686px;
     background: #1F1D1D;
@@ -64,7 +64,7 @@ color: #FFFFFF;
 }
 .section3{
     position: absolute;
-    width: 2000px;
+    width:1800px;
     height: 652px;
     top: 1841px;
     background:black;
