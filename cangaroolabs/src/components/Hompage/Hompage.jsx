@@ -1,11 +1,12 @@
 import React from 'react'
 import "./Homepage.css"
 import Header from "../Header/Header"
-
+import ParticleBg from '../ParticleBg'
 const Hompage = () => {
   return (
     <div classname="homepage">
     <Header/>
+    <ParticleBg/>
     <div className="can2"><img src='./images/Group2.png'alt="dfw"/></div>
     
     
