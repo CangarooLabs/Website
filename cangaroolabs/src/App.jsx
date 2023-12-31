@@ -10,15 +10,15 @@ const App = () => {
         <div className="section2"><div classname="text1"> <img src='./images/WhatWeOffer.png' alt='dfw'/>
         <div className="container1">
         <div class="row">
-    <div class="box">Box 1</div>
-    <div class="box">Box 2</div>
-    <div class="box">Box 3</div>
+    <div class="box"><div className="icons"><img src='./images/artificial-intelligence.png' alt='dfw'/></div></div>
+    <div class="box"><div className="icons"><img src='./images/ux 2.png' alt='dfw'/></div></div>
+    <div class="box"><div className="icons"><img src='./images/mobile 1.png' alt='dfw'/></div></div>
 </div></div>
 <div className="container2">
 <div class="row">
-    <div class="box">Box 4</div>
-    <div class="box">Box 5</div>
-    <div class="box">Box 6</div>
+    <div class="box"><div className="icons"><img src='./images/mobile-application 1.png' alt='dfw'/></div></div>
+    <div class="box"><div className="icons"><img src='./images/pen-tool 1.png' alt='dfw'/></div></div>
+    <div class="box"><div className="icons2"><img src='./images/cyber-security 1.png' alt='dfw'/></div></div>
 </div></div></div></div>
         <div className="section3">
             <div classname="text1"><div classname="text1"> <img src='./images/Why Us.png' alt='dfw'/></div></div>

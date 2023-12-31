@@ -12,6 +12,7 @@ width: 200px;
 height: 2000px;
 margin-left:1300px;
 margin-top: -150px;
+mix-blend-mode: hard-light;
 
 }
 .can2{
@@ -21,4 +22,5 @@ height: 100px;
 margin-left:360px;
 margin-top: 150px;
 color: white;
+mix-blend-mode: hard-light;
 }
