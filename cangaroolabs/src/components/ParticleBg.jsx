@@ -31,7 +31,7 @@ const ParticleBg = () => {
                 }
             },
             "color": {
-                "value": "#00000"
+                "value": "black"
             },
             "shape": {
                 "type": "star",
@@ -136,7 +136,7 @@ const ParticleBg = () => {
         },
         "retina_detect": true,
         "background": {
-            "color": "#111",
+            "color": "#000",
             "image": "",
             "position": "50% 50%",
             "repeat": "no-repeat",

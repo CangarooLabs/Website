@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Homepage from "./components/Hompage/Hompage"
 import Footer from "./components/Footer/Footer"
-import ParticleBg from './components/ParticleBg'
+
 const App = () => {
     return(
     <div>
