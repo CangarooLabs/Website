@@ -1,7 +1,6 @@
 .mainwrapper{
     color: white;
     position: relative;
-    
     background: none;
     height: 600px;
 }
@@ -83,6 +82,6 @@
 
   .particles-container{
     position: absolute;
-    height: 650px;
+    height: 700px;
     width: 100%;
   }
