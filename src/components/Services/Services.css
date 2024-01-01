@@ -1,0 +1,12 @@
+.servicemain{
+
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 38%, rgb(48, 46, 46) 100%);
+    color: white;
+    z-index: 1;
+    position: absolute;
+    margin-top: 0PX;
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+}
