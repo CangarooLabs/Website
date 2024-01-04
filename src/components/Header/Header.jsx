@@ -1,5 +1,6 @@
 import React from 'react'
 import './Header.css'
+
 const Header = () => {
   return (
     <section className="h-wrapper">
@@ -12,12 +13,12 @@ const Header = () => {
             <a href="">Projects</a>
             <a href="">About</a>
             <a href="">Contact us</a>
-            <button className='button'> 
-                <a href="">Login</a>
+
+            <button type="button" className='button'> 
+                <a>Login</a>
             </button>
         </div>
-      </div>
-       
+      </div> 
     </section>
   )
 }
